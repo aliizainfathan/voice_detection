@@ -4,4 +4,3 @@ scikit-learn
 librosa
 tsfel
 streamlit
-pickle5
