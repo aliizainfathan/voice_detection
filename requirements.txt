@@ -4,3 +4,4 @@ scikit-learn
 librosa
 tsfel
 streamlit
+audio-recorder-streamlit
